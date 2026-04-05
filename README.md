@@ -59,6 +59,6 @@ https://github.com/KarlaBlackie/weather-frontend-m7
 
 # Autor
 Karla Irene Jara Mena.
-Desarrollado como parte del bootcamp de Frontend.-
+Desarrollado como parte del bootcamp de Frontend.
 
   
