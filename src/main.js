@@ -13,3 +13,5 @@ app.use(store)
 app.use(router)
 
 app.mount('#app')
+
+// Fin de la configuración
